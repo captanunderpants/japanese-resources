@@ -25,6 +25,7 @@ This section is dedicated to Japanese learning guides. Start here unless you kno
 
 - [Immersion-Based Japanese Learning](https://donkuri.github.io/learn-japanese/guide/) - Frequently updated guide introducing everything you need in order to learn Japanese. Written by [kuri](https://github.com/donkuri/).
 - [TMW's guide to learning Japanese](https://learnjapanese.moe/guide/) - Fantastic guide that has helped thousands learn Japanese using immersion. Written by shoui.
+- [Learn Japanese with Immersion](https://www.ten.guide/) - Ten's guide to learning Japanese, complete with resources and pretty visual. Mostly made by Matsu.
 
 ## Hiragana and Katakana
 
