@@ -201,6 +201,7 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - [ねむい's anime logging spreadsheet](https://docs.google.com/spreadsheets/d/1CJ5rRmQYg6ckm0U56d3R_IIJBfHiEIZgKfBX4J-sXEs/edit?gid=0#gid=0) - A spreadsheet made by ねむい to log your anime immersion.
   - [HoriSan](https://github.com/Flare155/HoriSanBot) - A feature-full Discord bot to log your immersion. Written by [Flare](https://github.com/Flare155).
   - [tadoku](https://github.com/Eroge-Abyss/tadoku) - A fully-featured visual novel tracker. Requires you to build locally.
+  - **[jp343](https://chromewebstore.google.com/detail/ogjnhhmcfdkpmllikfmjdlhjepadeigl)** - A browser extension that auto-tracks your immersion time on YouTube, Netflix, Crunchyroll, and Prime Video. Made by [mH343](https://github.com/mh-343).
 
 - Example sentences
   - **[massif.la](https://massif.la/ja)** - A website aggregating a lot of Japanese example sentences.
