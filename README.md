@@ -2,7 +2,7 @@
 
 > A collection of Japanese learning resources meant to help you learn through immersion, see [here](https://donkuri.github.io/learn-japanese/guide/) for an explanation. A lot of these resources come from the [various resource aggregators](#resource-aggregators) on here, as well as the `#resources-sharing` channel on the [TMW](https://learnjapanese.moe/) Discord server.
 
-If you are interested in contributing, **make a pull request**.
+If you are interested in contributing, **make a pull request**. This list is for established tools made by people in the community. If you are the author of a tool, especially if that tool is vibecoded, please *make your code public*.
 
 - [Learning guides](#learning-guides)
 - [Hiragana and Katakana](#hiragana-and-katakana)
@@ -155,7 +155,7 @@ Mining is the process of finding new words in immersion, usually by adding them 
   - [Agent](https://github.com/0xDC00/agent) - A text hooker to help you use Yomitan with video games.
   - [YomiNinja](https://github.com/matt-m-o/YomiNinja) - A yomitan-compatible OCR to help you extract text from games and the like.
   - [JL](https://github.com/rampaa/JL) - A program that grabs text from the clipboard or a websocket, allowing you to easily mine visual novels and the like.
-  - [Mangatan](https://github.com/kaihouguide/Mangatan) - A somewhat involved manga OCR server using Suwayomi, an alternative to Tachiyomi on desktop.
+  - [Manatan](https://github.com/KolbyML/Manatan) - A complete immersion framework with instant OCR for manga, anime and novels.
   - [Textractor](https://github.com/Artikash/Textractor) - A text hooker to help you use Yomitan with visual novels. Make sure to get the alpha version by following [this](https://donkuri.github.io/learn-japanese/mining/#textractor).
   - [Game Sentence Miner](https://github.com/bpwhelan/GameSentenceMiner) - Immersion framework on top of Yomitan and a text hooker, made to automate a lot of the Anki card creation process. Written by [Beangate](https://github.com/bpwhelan).
   - [meikipop](https://github.com/rtr46/meikipop) - An OCR popup dictionary. Supports JMdict and doesn't feature mining, but still amazing. Also check out the rest of [rtr46's work](https://github.com/rtr46).
